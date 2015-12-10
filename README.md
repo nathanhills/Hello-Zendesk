@@ -1,16 +1,6 @@
-Midnight V2.0
+Hello V1.0
 =======================
-Midnight is a dark custom ZenDesk Theme.  This theme is very similar to the Humble Squid theme.  This theme is responsive and will work across many different monitor sizes including mobile phones.  You can use this theme or any code in this theme however you would like.  Enjoy!
-
-See it Live Here:  http://moderatorwes.zendesk.com (for a limited time only)
-
-Like my theme then show your appreciation with a cup of coffee or two.  
-<a href='http://ko-fi.com?i=8d141fc13e992fb' target='_blank'><img style='border:0px' src='http://ko-fi.com/img/button-4.png' border='0' alt='Buy Me A Coffee :) @ ko-fi.com' /></a>
-
-Updates
-========
-* 10/21/15 - Updated to new Curlybars Framework
-* 05/28/14 - Initial Commit
+Hello is a custom ZenDesk Theme.  This theme is very similar to the Humble Squid theme.  This theme is responsive and will work across many different monitor sizes including mobile phones.  You can use this theme or any code in this theme however you would like.  Enjoy!
 
 
 
