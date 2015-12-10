@@ -1,6 +1,8 @@
 Hello V1.0
 =======================
-Hello is a custom ZenDesk Theme.  This theme is very similar to the Humble Squid theme.  This theme is responsive and will work across many different monitor sizes including mobile phones.  You can use this theme or any code in this theme however you would like.  Enjoy!
+Hello is a custom ZenDesk Theme.  This theme is very similar to the Humble Squid theme.  This theme is responsive and will work across many different monitor sizes including mobile phones.  
+
+This theme is directlhy based off of Midnight theme by Wes Drury found here: https://github.com/moderatorwes/Midnight
 
 
 
