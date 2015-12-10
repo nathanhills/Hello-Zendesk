@@ -58,9 +58,6 @@ background: url(/hc/theme_assets/YOURPATH/39H.jpg) no-repeat center center fixed
 
 Screenshots
 ===========
-![Alt text](/Screenshots/Midnight-Home.png?raw=true "Home Page")
-![Alt text](/Screenshots/Midnight-Community.png?raw=true "Community Page")
-![Alt text](/Screenshots/Midnight-Contributions.png?raw=true "Contributions")
 
 
 
